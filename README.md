@@ -1,2 +1,2 @@
-# CS430
-classwork
+# RP_app
+my first application
